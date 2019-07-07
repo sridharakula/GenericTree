@@ -7,8 +7,12 @@ import org.junit.Test;
 
 import com.tree.kriantest.MessageParser;		
 
+/*
+@author Sridhar
+ */
+
 public class TestApp {
-	// @Ignore("not yet ready , Please ignore.")
+
 
    @Test
    public void testDotformat_Case1() {		
