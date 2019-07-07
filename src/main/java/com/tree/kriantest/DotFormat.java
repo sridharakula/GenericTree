@@ -7,7 +7,7 @@ import com.tree.kriantest.nodes.SimpleTypeNode;
 
 /**
  * This class will build dot format from the tree
- * @author sreedhar
+ * @author Sridhar
  *
  */
 public class DotFormat {

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kriantest.iml" filepath="$PROJECT_DIR$/kriantest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComplexTree.iml" filepath="$PROJECT_DIR$/ComplexTree.iml" />
     </modules>
   </component>
 </project>

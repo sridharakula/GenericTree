@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Complex type node bean class
- * @author sreedhar
+ * @author sridhar
  *
  */
 public class ComplexTypeNode {

@@ -9,7 +9,7 @@ import com.tree.kriantest.nodes.SimpleTypeNode;
 
 /**
  * This method will parse the input and build the tree
- * @author sreedhar
+ * @author Sridhar
  *
  */
 public class MessageParser {

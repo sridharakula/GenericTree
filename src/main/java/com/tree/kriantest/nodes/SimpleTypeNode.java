@@ -2,7 +2,7 @@ package com.tree.kriantest.nodes;
 
 /**
  * Simple type node bean class
- * @author sreedhar
+ * @author Sridhar
  *
  */
 
